@@ -63,3 +63,6 @@ venv.bak/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Project-specific ignored files
+*.pdf
